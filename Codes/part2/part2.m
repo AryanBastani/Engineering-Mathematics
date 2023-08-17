@@ -1,0 +1,1 @@
+[s, p] = fourier_series(10, 2*pi, 2, 5);
